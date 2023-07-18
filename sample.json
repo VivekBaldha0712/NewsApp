@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Iran protests: Thousands of prisoners pardoned by ayatollah",
+            "description": "Iranians involved in anti-government protests are among those set to be released.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64529927",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC9A/production/_128528284_683710ebb7bf8b0949dc22326f8b4baf28f65f78.jpg",
+            "publishedAt": "2023-02-05T13:37:15.3403451Z",
+            "content": "Iran's supreme leader has pardoned \"tens of thousands\" of prisoners, including many linked to anti-government protests.\r\nState media reports the pardons by Ayatollah Ali Khamenei came with conditions… [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Situation in east Ukraine getting tougher, says Zelensky",
+            "description": "Ukrainian troops in the Donetsk region are facing very difficult conditions, the country's president says.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64528580",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5502/production/_128526712_f8b8abbdeb0ca62d02854eb6f44bf5a192fe07a70_0_3529_22621000x641.jpg",
+            "publishedAt": "2023-02-05T13:22:17.8175474Z",
+            "content": "The situation on Ukraine's eastern front lines is getting tough, President Volodymyr Zelensky has said.\r\nUkrainian troops are facing a very difficult situation in three heavily contested towns in Don… [+2159 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Deadly wildfires rage across Chile",
+            "description": "More than 20 people are killed in Chile as wildfires sweep through 40,000 hectares of land.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-64521110",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43E5/production/_128518371_p0f0zqt2.jpg",
+            "publishedAt": "2023-02-05T11:37:23.3400086Z",
+            "content": "More than 20 people have died in Chile after wildfires swept through 40,000 hectares (99,000 acres) of land.\r\nThe government has declared a state of emergency in two regions - Biobío and Ñuble - and … [+181 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pope Mass in South Sudan: Pontiff urges people to reject 'venom of hatred'",
+            "description": "On the last day of his visit, throngs of South Sudanese filled John Garang Mausoleum to greet him.",
+            "url": "http://www.bbc.co.uk/news/world-africa-64528622",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D08/production/_128527886_0ff0a4fc659c924ec07acdb2020f8e18305493e5529_229_2479_13941000x563.jpg",
+            "publishedAt": "2023-02-05T11:37:20.0439533Z",
+            "content": "Pope Francis has ended his peace pilgrimage to South Sudan by celebrating an open air mass attended by tens of thousands in Juba. \r\nHe urged the congregation to reject what he called the \"venom of ha… [+3079 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pakistan's ex-president Musharraf dies aged 79",
+            "description": "Pakistan's former president General Pervez Musharraf, who seized power in a coup in 1999, has died in Dubai aged 79.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64528348",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-02-05T07:07:18.9812748Z",
+            "content": "Pakistan's former president General Pervez Musharraf, who seized power in a coup in 1999, has died in Dubai aged 79.\r\nThe former leader - who was president between 2001 and 2008 - died after a long i… [+212 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Wealthy UK family to apologise in Grenada over slave-owning past",
+            "description": "The Trevelyan family, who owned more than 1,000 African slaves in the 19th Century, will also pay reparations.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-64527709",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9EEA/production/_124628604_bbcgrenada-09782.jpg",
+            "publishedAt": "2023-02-05T05:07:19.9502411Z",
+            "content": "A UK family will publicly apologise to the people of the Caribbean island of Grenada, where its ancestors had more than 1,000 slaves in the 19th Century.\r\nThe aristocratic Trevelyan family, who owned… [+1399 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Death was chattering to me, says writer Hanif Kureishi",
+            "description": "The award-winning novelist tells the BBC he was convinced he was going to die after a fall last December.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64523505",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ADF4/production/_128523544_gettyimages-82216131.jpg",
+            "publishedAt": "2023-02-05T01:07:19.7942064Z",
+            "content": "The Oscar-nominated screenwriter Hanif Kureishi has told the BBC he \"saw death\" after being paralysed following a fall in December. \r\nThe award-winning author of My Beautiful Laundrette and The Buddh… [+3136 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "How to cook Spanish tortilla: Salmonella outbreak sparks national debate",
+            "description": "A bout of food poisoning at a Madrid restaurant stirs debate about how to cook a Spanish tortilla.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64510001",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B982/production/_128509474_gettyimages-1306996679.jpg",
+            "publishedAt": "2023-02-05T00:52:25.6860049Z",
+            "content": "A restaurant in Madrid known for its egg tortillas has temporarily closed after a salmonella outbreak - triggering a debate over how the iconic Spanish dish should be cooked and how runny it should b… [+3456 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China balloon: US going to take care of it, says Joe Biden",
+            "description": "The US president faces pressure to shoot down a suspected Chinese spy balloon flying across the US.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64524105",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CCC/production/_128506691_b03b473bf844459e894e065fbe19db642b30afe30_0_1036_9971000x962.jpg",
+            "publishedAt": "2023-02-04T18:22:23.9869853Z",
+            "content": "Media caption, Watch: BBC security correspondent Gordon Corera explains the US/China row\r\nPresident Joe Biden says the US is \"going to take care of\" a suspected Chinese spy balloon that has been flyi… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Perth shark attack: Teenage girl dies in Swan River",
+            "description": "The girl was thought to have been swimming in the Swan River, Western Australia Police say.",
+            "url": "http://www.bbc.co.uk/news/world-australia-64523498",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B48E/production/_128522264_gettyimages-549526681.jpg",
+            "publishedAt": "2023-02-04T12:52:17.3573385Z",
+            "content": "A 16-year-old girl has died after being attacked by a shark while swimming in a river in Western Australia. \r\nShe was pronounced dead after being pulled from the Swan River, in the Perth suburb of Fr… [+497 chars]"
+        }
+    ]
+}
